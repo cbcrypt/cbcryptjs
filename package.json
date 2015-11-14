@@ -1,0 +1,23 @@
+{
+  "name": "cbcryptjs",
+  "version": "2.0.0",
+  "description": "Secure authentication system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbcrypt/cbcryptjs.git"
+  },
+  "author": "Concept Blossom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbcrypt/cbcryptjs/issues"
+  },
+  "homepage": "https://github.com/cbcrypt/cbcryptjs#readme",
+  "dependencies": {
+    "jsrp": "^0.2.0",
+    "node-forge": "^0.6.38"
+  }
+}
